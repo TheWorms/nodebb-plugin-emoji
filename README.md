@@ -16,8 +16,8 @@ For best results, install `nodebb-plugin-emoji-cabane-libre` and emoji packs thr
 
 The following emoji packs are known to be compatible with `nodebb-plugin-emoji-cabane-libre`
 
- - [nodebb-plugin-emoji-fontawesome](https://github.com/TheWorms/nodebb-plugin-emoji/tree/master/packs/fontawesome)
- - [nodebb-plugin-emoji-cabane-libre](https://github.com/TheWorms/nodebb-plugin-emoji/tree/master/packs/cabane-libre)
+ - [nodebb-plugin-emoji-fontawesome](https://github.com/TheWorms/nodebb-plugin-emoji-cabane-libre/tree/master/packs/fontawesome)
+ - [nodebb-plugin-emoji-cabane-libre](https://github.com/TheWorms/nodebb-plugin-emoji-cabane-libre/tree/master/packs/cabane-libre)
 
 To add custom emoji, visit the **Emoji** ACP page and click on the pencil button in the bottom left.
 

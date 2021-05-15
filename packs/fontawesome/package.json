@@ -24,7 +24,7 @@
     "compatibility": "^1.7.0"
   },
   "peerDependencies": {
-    "nodebb-plugin-emoji": "^3.4.2 || ^3.5.0"
+    "nodebb-plugin-emoji-cabane-libre": "^3.4.2 || ^3.5.0"
   },
   "author": "Peter Jaszkowiak",
   "license": "MIT",

@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-emoji-cabane-libre",
   "version": "2.0.0",
-  "description": "The Cabane Libre emoji-set for NodeBB (requires nodebb-plugin-emoji)",
+  "description": "The Cabane Libre emoji-set for NodeBB (requires nodebb-plugin-emoji-cabane-libre)",
   "main": "emoji.json",
   "author": "Ole Reglitzki <frissdiegurke@protonmail.com> (https://github.com/frissdiegurke)",
   "contributors": [
@@ -26,6 +26,6 @@
     "cabane-libre"
   ],
   "peerDependencies": {
-    "nodebb-plugin-emoji": "^3.4.2 || ^3.5.0"
+    "nodebb-plugin-emoji-cabane-libre": "^3.4.2 || ^3.5.0"
   }
 }
