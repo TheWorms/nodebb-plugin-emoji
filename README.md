@@ -1,9 +1,5 @@
 # Emoji for NodeBB +
 
-![Compatibility](https://packages.nodebb.org/api/v1/plugins/nodebb-plugin-emoji/compatibility.png)
-[![Downloads](https://img.shields.io/npm/dm/nodebb-plugin-emoji.svg)](https://www.npmjs.com/package/nodebb-plugin-emoji)
-[![Dependency Status](https://david-dm.org/NodeBB-Community/nodebb-plugin-emoji.svg)](https://david-dm.org/NodeBB/nodebb-plugin-emoji)
-
 Adds extensible emoji functionality to NodeBB
 
  - Multiple sets of emoji available for use
@@ -18,14 +14,9 @@ For best results, install `nodebb-plugin-emoji-cabane-libre` and emoji packs thr
 
 ### Emoji packs
 
-The following emoji packs are known to be compatible with `nodebb-plugin-emoji`
+The following emoji packs are known to be compatible with `nodebb-plugin-emoji-cabane-libre`
 
- - [nodebb-plugin-emoji-android](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/android)
- - [nodebb-plugin-emoji-one](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/one)
- - [nodebb-plugin-emoji-apple](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/apple)
- - [nodebb-plugin-emoji-cubicopp](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/cubicopp)
- - [nodebb-plugin-emoji-vital](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/vital)
- - [nodebb-plugin-emoji-fontawesome](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/fontawesome)
+ - [nodebb-plugin-emoji-fontawesome](https://github.com/TheWorms/nodebb-plugin-emoji/tree/master/packs/fontawesome)
  - [nodebb-plugin-emoji-cabane-libre](https://github.com/TheWorms/nodebb-plugin-emoji/tree/master/packs/cabane-libre)
 
 To add custom emoji, visit the **Emoji** ACP page and click on the pencil button in the bottom left.
@@ -76,6 +67,6 @@ On an emoji build, initiated either on first install of the plugin or through th
 
 ### Manual installation
 
-If `nodebb-plugin-emoji` is not available through the ACP, you can install it manually with NPM
+If `nodebb-plugin-emoji-cabane-libre` is not available through the ACP, you can install it manually with NPM
 
-    npm install nodebb-plugin-emoji
+    npm install nodebb-plugin-emoji-cabane-libre

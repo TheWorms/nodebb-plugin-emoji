@@ -18,7 +18,7 @@ export function sprite(pack: EmojiDefinition): string {
       `background-position: ${pack.dictionary[name].backgroundPosition};` +
     '}');
 
-  const route = `${url}/plugins/nodebb-plugin-emoji/emoji/${pack.id}`;
+  const route = `${url}/plugins/nodebb-plugin-emoji-cabane-libre/emoji/${pack.id}`;
   return `.emoji-${pack.id} {
     background-image: url(${route}/${basename(pack.sprite.file)}?${buster});
     background-size: ${pack.sprite.backgroundSize};
@@ -48,7 +48,7 @@ export function sprite(pack: EmojiDefinition): string {
 }
 
 export function font(pack: EmojiDefinition): string {
-  const route = `${url}/plugins/nodebb-plugin-emoji/emoji/${pack.id}`;
+  const route = `${url}/plugins/nodebb-plugin-emoji-cabane-libre/emoji/${pack.id}`;
 
   return `@font-face {
     font-family: '${pack.font.family}';

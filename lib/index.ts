@@ -70,7 +70,7 @@ export async function addStylesheet<Payload extends {
 
   data.links.push({
     rel: 'stylesheet',
-    href: `${rel}/plugins/nodebb-plugin-emoji/emoji/styles.css?${buster}`,
+    href: `${rel}/plugins/nodebb-plugin-emoji-cabane-libre/emoji/styles.css?${buster}`,
   });
 
   return data;

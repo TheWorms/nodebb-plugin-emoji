@@ -74,7 +74,7 @@ const emojiPattern = /:([a-z\-.+0-9_]+):/g;
 
 export const buildEmoji = (emoji: StoredEmoji, whole: string): string => {
   if (emoji.image) {
-    const route = `${url}/plugins/nodebb-plugin-emoji/emoji/${emoji.pack}`;
+    const route = `${url}/plugins/nodebb-plugin-emoji-cabane-libre/emoji/${emoji.pack}`;
     return `<img
       src="${route}/${emoji.image}?${buster}"
       class="not-responsive emoji emoji-${emoji.pack} emoji--${emoji.name}"
