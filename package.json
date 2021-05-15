@@ -1,10 +1,10 @@
 {
-  "name": "nodebb-plugin-emoji-cabane-libre",
-  "version": "3.5.4",
+  "name": "nodebb-plugin-emoji-cabane-libre-cabane-libre",
+  "version": "3.5.3",
   "description": "Adds extensible emoji functionality to NodeBB",
   "main": "build/lib",
   "author": "Peter Jaszkowiak <p.jaszkow@gmail.com> (https://github.com/pitaj)",
-  "contributors": "TheWorms <theworms@protonmail.com>",  
+  "contributor": "TheWorms",
   "license": "MIT",
   "homepage": "https://github.com/TheWorms/nodebb-plugin-emoji-cabane-libre",
   "repository": {
@@ -19,7 +19,6 @@
     "plugin",
     "emoji",
     "extended"
-    "cabane-libre"
   ],
   "dependencies": {
     "fs-extra": "^9.1.0",

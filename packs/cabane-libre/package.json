@@ -1,21 +1,22 @@
 {
   "name": "nodebb-plugin-emoji-cabane-libre",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "description": "The Cabane Libre emoji-set for NodeBB (requires nodebb-plugin-emoji)",
   "main": "emoji.json",
   "author": "Ole Reglitzki <frissdiegurke@protonmail.com> (https://github.com/frissdiegurke)",
   "contributors": [
     "Ole Reglitzki <frissdiegurke@protonmail.com> (https://github.com/frissdiegurke)",
     "Peter Jaszkowiak <p.jaszkow@gmail.com> (https://github.com/pitaj)",
-    "TheWorms <theworms@protonmail.com>"
+    "TheWorms <theworms@protonmail.com>"  
   ],
   "license": "MIT",
+  "homepage": "https://github.com/TheWorms/nodebb-plugin-emoji-cabane-libre/tree/master/packs/cabane-libre",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheWorms/nodebb-plugin-emoji-cabane-libre.git"
   },
   "nbbpm": {
-    "name": "Emoji cabane-libre",
+    "name": "Emoji Cabane Libre",
     "compatibility": "^1.7.0"
   },
   "keywords": [
