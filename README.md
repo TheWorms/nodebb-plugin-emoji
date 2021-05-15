@@ -1,4 +1,4 @@
-# Emoji for NodeBB +
+# Emoji for NodeBB Cabane ibre
 
 Adds extensible emoji functionality to NodeBB
 
