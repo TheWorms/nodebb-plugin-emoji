@@ -1,0 +1,8 @@
+{
+  "settings": "Configuration",
+  "settings.parseAscii": "Remplacez les caractères ASCII courants comme <code>:)</code>, <code>-_-</code>, etc",
+  "settings.parseNative": "Remplacer les caractères emoji natifs Unicode par des emoji fournis par les packs emoji",
+  "settings.customFirst": "Placez d'abord votre emoji personnalisé dans la boîte de dialogue",
+  "build": "Créer des éléments Emoji",
+  "build_description": "Compilez les métadonnées et les ressources statiques nécessaires à partir de tous les packs d'emojis. <br> Après avoir installé et activé un pack d'emojis, redémarrez NodeBB, Build Emoji Assets, puis Redémarrez et reconstruisez NodeBB."
+}

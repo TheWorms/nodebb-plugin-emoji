@@ -1,4 +1,4 @@
-# Emoji for NodeBB
+# Emoji for NodeBB +
 
 ![Compatibility](https://packages.nodebb.org/api/v1/plugins/nodebb-plugin-emoji/compatibility.png)
 [![Downloads](https://img.shields.io/npm/dm/nodebb-plugin-emoji.svg)](https://www.npmjs.com/package/nodebb-plugin-emoji)
@@ -14,7 +14,7 @@ Adds extensible emoji functionality to NodeBB
 
 ## Installation
 
-For best results, install `nodebb-plugin-emoji` and emoji packs through the NodeBB Admin Panel.
+For best results, install `nodebb-plugin-emoji-cabane-libre` and emoji packs through the NodeBB Admin Panel.
 
 ### Emoji packs
 
@@ -26,6 +26,7 @@ The following emoji packs are known to be compatible with `nodebb-plugin-emoji`
  - [nodebb-plugin-emoji-cubicopp](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/cubicopp)
  - [nodebb-plugin-emoji-vital](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/vital)
  - [nodebb-plugin-emoji-fontawesome](https://github.com/NodeBB/nodebb-plugin-emoji/tree/master/packs/fontawesome)
+ - [nodebb-plugin-emoji-cabane-libre](https://github.com/TheWorms/nodebb-plugin-emoji/tree/master/packs/cabane-libre)
 
 To add custom emoji, visit the **Emoji** ACP page and click on the pencil button in the bottom left.
 

@@ -1,0 +1,25 @@
+{
+  "composer.title": "Emoji",
+  "meta-load-failed": "Échec du chargement des métadonnées",
+  "modal.title": "Émoticônes disponibles",
+  "modal.legal": "Information légale",
+  "modal.legal.header": "Les emojis affichés appartiennent à différents <em> ensembles d'emojis </em>. <br> Le jeu auquel appartient un emoji est indiqué dans l'attribut HTML <code> class </code> (<code>class=\"emoji-[pack ID]\"</code>). ",
+  "modal.legal.set.header": "<strong>%1</strong> Ensemble Emoji <small>ID: <code>%2</code></small>",
+  "modal.legal.set.attribution": "Attribution",
+  "modal.legal.set.license": "License",
+
+  "categories.symbols": "Symboles",
+  "categories.objects": "Objets",
+  "categories.nature": "Nature",
+  "categories.people": "People",
+  "categories.food": "Food",
+  "categories.travel": "Travel",
+  "categories.activity": "Activity",
+  "categories.flags": "Flags",
+  "categories.regional": "Regional",
+  "categories.modifier": "Modifier",
+  "categories.other": "Other",
+  "categories.custom": "Custom",
+  "search.results": "Search Results",
+  "search.placeholder": "Search"
+}

@@ -21,7 +21,7 @@
     "public/emoji-setup.js"
   ],
   "languages": "public/language",
-  "defaultLang": "en-US",
+  "defaultLang": "fr-FR",
   "templates": "public/templates",
   "hooks": [
     { "hook": "static:app.load", "method": "init" },

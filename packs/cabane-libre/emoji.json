@@ -1,0 +1,696 @@
+{
+  "name": "Cabane Libre",
+  "id": "cabane-libre",
+  "mode": "images",
+  "images": {
+    "directory": "emoji"
+  },
+  "dictionary": {
+    "sourire": {
+      "image": "krzywy.gif",
+      "character": "😀",
+      "ascii": [":)"]
+    },
+    "rire": {
+      "image": "zeby.gif",
+      "character": "😄",
+      "ascii": [":D"]
+    },
+    "langue": {
+      "image": "8p.gif",
+      "character": "😜",
+      "ascii": [":p",":langue:"]
+    },
+    "clin_oeil": {
+      "image": "oczko.gif",
+      "character": "😏",
+      "ascii": [";)"]
+    },
+    "choque": {
+      "image": "szok.gif",
+      "character": "😮",
+      "ascii": [":O"]
+    },
+    "triste": {
+      "image": "placze.gif",
+      "character": "😥",
+      "ascii": [":("]
+    },
+    "ouf": {
+      "image": "krecka_dostal.gif",    
+      "aliases": ["ouf"],
+    "ascii": ["x)"]      
+    },
+    "pleurer": {
+      "image": "beczy.gif",
+      "aliases": ["pleurer"],
+    "ascii": ["'("]
+    },
+    "lol": {
+      "image": "lol2.gif",
+      "aliases": ["lol"],
+    "ascii": [":lol:"]
+    },
+    "class": {
+      "image": "okularnik.gif",
+      "character": "😎",
+    "ascii": ["8)"]
+    },
+    "bouder": {
+      "image": "foch.gif",
+      "aliases": ["bouder"],
+    "ascii": [":$"]
+    },
+    "confus": {
+      "image": "yyyy.gif",
+      "character": "😕",      
+      "aliases": ["confus"],
+    "ascii": [":|",":/"]
+    },
+    "super": {
+      "image": "oklasky.gif",
+      "aliases": ["super"],
+    "ascii": [":super:"]
+    },
+    "diable": {
+      "image": "diabelek.gif",
+      "aliases": ["diable"],
+    "ascii": [":diable:"]
+    },
+    "heho": {
+      "image": "dokuczacz.gif",
+      "aliases": ["heho"],
+    "ascii": [":heho:"]
+    },
+    "chauffard": {
+      "image": "dresiarz.gif",
+      "aliases": ["chauffard"],
+    "ascii": [":chauffard:"]
+    },
+    "bouquet": {
+      "image": "bukiet.gif",
+      "aliases": ["bouquet"],
+    "ascii": [":bouquet:"]
+    },
+    "pasbanni": {
+      "image": "dobani.gif",
+      "aliases": ["pasbanni"],
+    "ascii": [":pasbanni:"]
+    },
+    "magie": {
+      "image": "czarodziej.gif",
+      "aliases": ["magie"],
+    "ascii": [":magie:"]
+    },
+    "plein_la_gueule": {
+      "image": "dostal.gif",
+      "aliases": ["plein_la_gueule"],
+    "ascii": [":plein_la_gueule:"]
+    },
+    "ok": {
+      "image": "okok.gif",
+      "aliases": ["ok"],
+    "ascii": [":ok:"]
+    },
+    "ptdr": {
+      "image": "hahaha.gif",
+      "aliases": ["ptdr"],
+    "ascii": [":ptdr:"]
+    },
+    "oui": {
+      "image": "tak.gif",
+      "aliases": ["oui"],
+    "ascii": [":oui:"]
+    },
+    "non": {
+      "image": "nie.gif",
+      "aliases": ["non"],
+    "ascii": [":non:"]
+    },
+    "tire_langue": {
+      "image": "jezyk.gif",
+      "aliases": ["tire_langue"],
+    "ascii": [";p"]
+    },
+    "mdr": {
+      "image": "haha.gif",
+      "aliases": ["mdr"],
+    "ascii": [":mdr:"]
+    },
+    "vnr": {
+      "image": "wnerw.gif",
+      "aliases": ["vnr"],
+    "ascii": [":vnr:"]
+    },
+    "aurevoir": {
+      "image": "zlezkawoku.gif",
+      "aliases": ["aurevoir"],
+    "ascii": [":aurevoir:"]
+    },
+    "exclamation": {
+      "image": "wykrzyknik.gif",
+      "aliases": ["exclamation"],
+    "ascii": [":!"]
+    },
+    "nimp": {
+      "image": "zalamka.gif",
+      "aliases": ["nimp"],
+    "ascii": [":nimp:"]
+    },
+    "coucou": {
+      "image": "papa2.gif",
+      "aliases": ["coucou"],
+    "ascii": [":coucou:"]
+    },
+    "merci": {
+      "image": "papa.gif",
+      "aliases": ["merci"],
+    "ascii": [":merci:"]
+    },
+    "pizza": {
+      "image": "je_pizze.gif",
+      "aliases": ["pizza"],
+    "ascii": [":pizza:)"]
+    },
+    "hein": {
+      "image": "co.gif",
+      "aliases": ["hein"],
+    "ascii": [":?"]
+    },
+    "manger": {
+      "image": "jem.gif",
+      "aliases": ["manger"],
+    "ascii": [":manger:)"]
+    },
+    "love": {
+      "image": "milosc.gif",
+      "aliases": ["love"],
+    "ascii": [":love:"]
+    },
+    "cafe": {
+      "image": "kawa.gif",
+      "aliases": ["cafe"],
+    "ascii": [":cafe:"]
+    },
+    "grand_langue": {
+      "image": "jezyk_oko.gif",
+      "aliases": ["confus"],
+    "ascii": [":=P"]
+    },
+    "killer": {
+      "image": "killer.gif",
+      "aliases": ["killer"],
+    "ascii": [":killer:"]
+    },
+    "combat": {
+      "image": "klotnia.gif",
+      "aliases": ["combat"],
+    "ascii": [":combat:"]
+    },
+    "tchat": {
+      "image": "chatownik.gif",
+      "aliases": ["tchat"],
+    "ascii": [":tchat:"]
+    },
+    "gentil_chat": {
+      "image": "kotek.gif",
+      "aliases": ["gentil_chat"],
+    "ascii": [":gentil_chat:"]
+    },
+    "serieux": {
+      "image": "nie_powiem.gif",
+      "aliases": ["serieux"],
+    "ascii": [":serieux:"]
+    },
+    "hello": {
+      "image": "luzik.gif",
+      "aliases": ["hello"],
+    "ascii": [":hello:"]
+    },
+    "miam": {
+      "image": "mniam.gif",
+      "aliases": ["miam"],
+    "ascii": [":miam:"]
+    },
+    "muzik": {
+      "image": "muza.gif",
+      "aliases": ["muzik"],
+    "ascii": [":muzik:"]
+    },
+    "couple": {
+      "image": "buziak.gif",
+      "aliases": ["couple"],
+    "ascii": [":couple:"]
+    },
+    "forcer": {
+      "image": "mysli.gif",
+      "aliases": ["forcer"],
+    "ascii": [":forcer:"]
+    },
+    "amoureux": {
+      "image": "buzki.gif",
+      "aliases": ["amoureux"],
+    "ascii": [":amoureux:"]
+    },
+    "maniac": {
+      "image": "cwaniak.gif",
+      "aliases": ["maniac"],
+    "ascii": [":maniac:"]
+    },
+    "bouquiner": {
+      "image": "nauka.gif",
+      "aliases": ["bouquiner"],
+    "ascii": [":bouquiner:"]
+    },
+    "mad": {
+      "image": "olaboga.gif",
+      "aliases": ["mad"],
+    "ascii": [":mad:"]
+    },
+    "agace": {
+      "image": "nerwus.gif",
+      "aliases": ["agace"],
+    "ascii": [":agace:"]
+    },
+    "soupe": {
+      "image": "obiad.gif",
+      "aliases": ["soupe"],
+    "ascii": [":soupe:"]
+    },
+    "mouais": {
+      "image": "chytry.gif",
+      "aliases": ["mouais"],
+    "ascii": [":mouais:"]
+    },
+    "decu": {
+      "image": "smutny.gif",
+      "aliases": ["decu"],
+    "ascii": [":decu:"]
+    },
+    "tudis": {
+      "image": "co_jest.gif",
+      "aliases": ["tudis"],
+    "ascii": [":tudis:"]
+    },
+    "bisous": {
+      "image": "onajego.gif",
+      "aliases": ["bisous"],
+    "ascii": [":bisous:"]
+    },
+    "taper": {
+      "image": "cisza.gif",
+      "aliases": ["taper"],
+    "ascii": [":taper:"]
+    },
+    "halter": {
+      "image": "paker.gif",
+      "aliases": ["halter"],
+    "ascii": [":halter:"]
+    },
+    "fumer": {
+      "image": "palacz.gif",
+      "aliases": ["fumer"],
+    "ascii": [":fumer:"]
+    },
+    "pasxcuz": {
+      "image": "paluszkiem.gif",
+      "aliases": ["pasxcuz"],
+    "ascii": [":pasxcuz:"]
+    },
+    "smack": {
+      "image": "cmok.gif",
+      "aliases": ["smack"],
+    "ascii": [":smack:"]
+    },
+    "peace": {
+      "image": "peace.gif",
+      "aliases": ["peace"],
+    "ascii": [":peace:"]
+    },
+    "tuveukoi": {
+      "image": "kwiatek.gif",
+      "aliases": ["tuveukoi"],
+    "ascii": [":tuveukoi:"]
+    },
+    "chienchien": {
+      "image": "pies.gif",
+      "aliases": ["chienchien"],
+    "ascii": [":chienchien:"]
+    },
+    "buvons": {
+      "image": "piwo.gif",
+      "aliases": ["buvons"],
+    "ascii": [":buvons:"]
+    },
+    "tuptup": {
+      "image": "tuptup.gif",
+      "aliases": ["tuptup"],
+    "ascii": [":tuptup:"]
+    },
+    "baff": {
+      "image": "plask.gif",
+      "aliases": ["baff"],
+    "ascii": [":baff:"]
+    },
+    "zzz": {
+      "image": "buja_w_oblokach.gif",
+      "aliases": ["zzz"],
+    "ascii": [":zzz:"]
+    },
+    "PS": {
+      "image": "plotki.gif",
+      "aliases": ["PS"],
+    "ascii": [":PS:"]
+    },
+    "baston": {
+      "image": "boks.gif",
+      "aliases": ["baston"],
+    "ascii": [":baston:"]
+    },
+    "dekoinon": {
+      "image": "pocieszacz.gif",
+      "aliases": ["dekoinon"],
+    "ascii": [":dekoinon:"]
+    },
+    "peur": {
+      "image": "boisie.gif",
+      "aliases": ["peur"],
+    "ascii": [":peur:"]
+    },
+    "boxe": {
+      "image": "bije.gif",
+      "aliases": ["boxe"],
+    "ascii": [":boxe:"]
+    },
+    "help": {
+      "image": "pomocy.gif",
+      "aliases": ["help"],
+    "ascii": [":help:"]
+    },
+    "photo": {
+      "image": "aparat.gif",
+      "aliases": ["photo"],
+    "ascii": [":photo:"]
+    },
+    "present": {
+      "image": "prezent.gif",
+      "aliases": ["present"],
+    "ascii": [":present:"]
+    },
+    "oeuf": {
+      "image": "3m_sie.gif",
+      "aliases": ["oeuf"],
+    "ascii": [":oeuf:"]
+    },
+    "teunpro": {
+      "image": "prosi.gif",
+      "aliases": ["teunpro"],
+    "ascii": [":teunpro:"]
+    },
+    "tefou": {
+      "image": "puknijsie.gif",
+      "aliases": ["tefou"],
+    "ascii": [":tefou:"]
+    },
+    "ange": {
+      "image": "aniolek.gif",
+      "aliases": ["ange"],
+    "ascii": [":ange:"]
+    },
+    "regle": {
+      "image": "czytaj.gif",
+      "aliases": ["regle"],
+    "ascii": [":regle:"]
+    },
+    "question": {
+      "image": "pytajnik.gif",
+      "aliases": ["question"],
+    "ascii": [":question:"]
+    },
+    "rofl": {
+      "image": "rotfl.gif",
+      "aliases": ["rofl"],
+    "ascii": [":rofl:"]
+    },
+    "pommes": {
+      "image": "jablko.gif",
+      "aliases": ["pommes"],
+    "ascii": [":pommes:"]
+    },
+    "youpi": {
+      "image": "hura.gif",
+      "aliases": ["youpi"],
+    "ascii": [":youpi:"]
+    },
+    "rose": {
+      "image": "roza.gif",
+      "aliases": ["rose"],
+    "ascii": [":rose:"]
+    },
+    "salut": {
+      "image": "hejka.gif",
+      "aliases": ["salut"],
+    "ascii": [":salut:"]
+    },
+    "vomir": {
+      "image": "rzygi.gif",
+      "aliases": ["vomir"],
+    "ascii": [":vomir:"]
+    },
+    "afond": {
+      "image": "gra.gif",
+      "aliases": ["afond"],
+    "ascii": [":afond:"]
+    },
+    "borne": {
+      "image": "sciana.gif",
+      "aliases": ["borne"],
+    "ascii": [":borne:"]
+    },
+    "coeur": {
+      "image": "serducho.gif",
+      "aliases": ["coeur"],
+    "ascii": [":coeur:"]
+    },
+    "marteau": {
+      "image": "glupek.gif",
+      "aliases": ["marteau"],
+    "ascii": [":marteau:"]
+    },
+    "gentil": {
+      "image": "glaszcze.gif",
+      "aliases": ["gentil"],
+    "ascii": [":gentil:"]
+    },
+    "lover": {
+      "image": "serduszka.gif",
+      "aliases": ["lover"],
+    "ascii": [":lover:"]
+    },
+    "desole": {
+      "image": "bezradny.gif",
+      "aliases": ["desole"],
+    "ascii": [":desole:"]
+    },
+    "sexe": {
+      "image": "sex.gif",
+      "aliases": ["sexe"],
+    "ascii": [":sexe:"]
+    },
+    "soleil": {
+      "image": "slonko.gif",
+      "aliases": ["soleil"],
+    "ascii": [":soleil:"]
+    },
+    "crier": {
+      "image": "krzyk.gif",
+      "aliases": ["crier"],
+    "ascii": [":crier:"]
+    },
+    "noel": {
+      "image": "snieg.gif",
+      "aliases": ["noel"],
+    "ascii": [":noel:"]
+    },
+    "lire": {
+      "image": "gazeta.gif",
+      "aliases": ["lire"],
+    "ascii": [":lire:"]
+    },
+    "biere": {
+      "image": "piwko2.gif",
+      "aliases": ["biere"],
+    "ascii": [":biere:"]
+    },
+    "santhe": {
+      "image": "soczek.gif",
+      "aliases": ["santhe"],
+    "ascii": [":santhe:"]
+    },
+    "padejla": {
+      "image": "spadaj.gif",
+      "aliases": ["padejla"],
+    "ascii": [":padejla:"]
+    },
+    "ganja": {
+      "image": "ganja.gif",
+      "aliases": ["ganja"],
+    "ascii": [":ganja:"]
+    },
+    "dodo": {
+      "image": "spie.gif",
+      "aliases": ["dodo"],
+    "ascii": [":dodo:"]
+    },
+    "oups": {
+      "image": "gafa.gif",
+      "aliases": ["oups"],
+    "ascii": [":oups:"]
+    },
+    "blabla": {
+      "image": "figielek.gif",
+      "aliases": ["blabla"],
+    "ascii": [":blabla:"]
+    },
+    "ronker": {
+      "image": "spioch.gif",
+      "aliases": ["ronker"],
+    "ascii": [":ronker:"]
+    },
+    "moncul": {
+      "image": "dupa.gif",
+      "aliases": ["moncul"],
+    "ascii": [":moncul:"]
+    },
+    "stop": {
+      "image": "stop.gif",
+      "aliases": ["stop"],
+    "ascii": [":stop:"]
+    },
+    "stress": {
+      "image": "stres.gif",
+      "aliases": ["stress"],
+    "ascii": [":stress:"]
+    },
+    "boire": {
+      "image": "drink.gif",
+      "aliases": ["boire"],
+    "ascii": [":boire:"]
+    },
+    "champagne": {
+      "image": "szampan.gif",
+      "aliases": ["champagne"],
+    "ascii": [":champagne:"]
+    },
+    "dance": {
+      "image": "tancze.gif",
+      "aliases": ["dance"],
+    "ascii": [":dance:"]
+    },
+    "telephone": {
+      "image": "telefon.gif",
+      "aliases": ["telephone"],
+    "ascii": [":telephone:"]
+    },
+    "soufaniv": {
+      "image": "tort.gif",
+      "aliases": ["soufaniv"],
+    "ascii": [":soufaniv:"]
+    },
+    "bouche": {
+      "image": "usta.gif",
+      "aliases": ["bouche"],
+    "ascii": [":bouche:"]
+    },
+    "ecolier": {
+      "image": "uczen.gif",
+      "aliases": ["ecolier"],
+    "ascii": [":ecolier:"]
+    },
+    "boss": {
+      "image": "uoeee.gif",
+      "aliases": ["boss"],
+    "ascii": [":boss:"]
+    },
+    "reconfort": {
+      "image": "uscisk.gif",
+      "aliases": ["reconfort"],
+    "ascii": [":reconfort:"]
+    },
+    "grand_sourire": {
+      "image": "usmiech.gif",
+      "aliases": ["grand_sourire"],
+    "ascii": [":=)"]
+    },
+    "allersalut": {
+      "image": "w8.gif",
+      "aliases": ["allersalut"],
+    "ascii": [":allersalut:"]
+    },
+    "nager": {
+      "image": "wanna.gif",
+      "aliases": ["nager"]  ,
+    "ascii": [":nager:"]
+    },
+    "wc": {
+      "image": "wc.gif",
+      "aliases": ["wc"],
+    "ascii": [":wc:"]
+    },
+    "hahaha": {
+      "image": "wysmiewacz.gif",
+      "aliases": ["hahaha"],
+    "ascii": [":hahaha:"]
+    },
+    "zapper": {
+      "image": "zab.gif",
+      "aliases": ["zapper"],
+    "ascii": [":zapper:"]
+    },
+    "yole": {
+      "image": "zacieszacz.gif",
+      "aliases": ["yole"],
+    "ascii": [":yole:"]
+    },
+    "loveme": {
+      "image": "zakochany.gif",
+      "aliases": ["loveme"],
+    "ascii": [":loveme:"]
+    },
+    "kaki": {
+      "image": "zakupy.gif",
+      "aliases": ["confus"],
+    "ascii": [":kadi:"]
+    },
+    "rougi": {
+      "image": "zawstydzony.gif",
+      "aliases": ["rougi"],
+    "ascii": [":rougi:"]
+    },
+    "wahoo": {
+      "image": "zeby.gif",
+      "aliases": ["wahoo"],
+    "ascii": [":wahoo:"]
+    },
+    "heure": {
+      "image": "zegar.gif",
+      "aliases": ["heure"],
+    "ascii": [":heure:"]
+    },
+    "baill": {
+      "image": "ziew.gif",
+      "aliases": ["baill"],
+    "ascii": [":baill:"]
+    },
+    "tvnr": {
+      "image": "zly.gif",
+      "aliases": ["tnvr"],
+    "ascii": [":tvnr:"]
+    },
+    "creve": {
+      "image": "zmeczony.gif",
+      "aliases": ["creve"],
+    "ascii": [":creve:"]
+    }
+  }
+}
